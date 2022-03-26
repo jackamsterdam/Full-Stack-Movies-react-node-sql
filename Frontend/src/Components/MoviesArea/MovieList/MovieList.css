@@ -1,0 +1,24 @@
+.MovieList > table {
+	margin: 10px auto;
+    font-size: x-large;
+}
+
+
+.MovieList > table, .MovieList th , .MovieList td {
+	border: 1px solid black;
+}
+
+.MovieList select {
+    margin-top: 10px;
+}
+
+
+.MovieList button {
+ background-color: transparent;
+ border: none;
+
+}
+.MovieList button:hover {
+transform: scale(0.98);
+ cursor: pointer;
+}
